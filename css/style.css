@@ -1,13 +1,13 @@
 @font-face {
-	font-family: 'QuoteFont';
-	src: url('/fonts/Caveat/static/Caveat-Regular.ttf') format('truetype');
+	font-family: "QuoteFont";
+	src: url("../fonts/Caveat/Caveat-VariableFont_wght.ttf");
 }
 
 body {
 	margin: 1%;
 	padding: 1%;
 	font-size: 150%;
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-family: 'Trebuchet MS', sans-serif;
 }
 
 h1 {
@@ -47,13 +47,13 @@ a:visited {
 	color: blue;
 }
 
-.quote {
-	font-family: 'QuoteFont', cursive;
+h2.quote {
+	font-family: "QuoteFont";
 	font-size: 150%;
 }
 
-.fast-facts {
-	font-family: 'QuoteFont', cursive;
+p.fast-facts {
+	font-family: "QuoteFont";
 	font-size: 150%;
 }
 
