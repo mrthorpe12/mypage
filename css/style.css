@@ -1,5 +1,5 @@
 @font-face {
-	font-family: "QuoteFont";
+	font-family: "CursiveFont";
 	src: url("../fonts/Caveat/Caveat-VariableFont_wght.ttf");
 }
 
@@ -36,7 +36,6 @@ img {
 
 h2 {
 	font-size: 1em;
-	font-weight: bold;
 }
 
 p, h1, h2 {
@@ -48,12 +47,13 @@ a:visited {
 }
 
 h2.quote {
-	font-family: "QuoteFont";
+	font-family: "CursiveFont", cursive;
 	font-size: 150%;
+	font-weight: normal;
 }
 
 p.fast-facts {
-	font-family: "QuoteFont";
+	font-family: "CursiveFont", cursive;
 	font-size: 150%;
 }
 
@@ -67,6 +67,3 @@ nav li {
 	display: inline-block;
 	width: 20%;
 }
-
-
-
