@@ -42,6 +42,10 @@ p, h1, h2 {
 	padding: 10px;
 }
 
+a {
+	text-decoration: none;
+}
+
 a:visited {
 	color: blue;
 }
@@ -58,7 +62,7 @@ p.fast-facts {
 }
 
 nav li {
-	background-color: #4dff74;
+	background-color: #bbff4d;
 	padding: 10px;
 	width: 25%;
 	border: 1px solid black;
