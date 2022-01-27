@@ -61,6 +61,10 @@ p.fast-facts {
 	font-size: 150%;
 }
 
+li.coursename {
+	font-weight: bold;
+}
+
 nav li {
 	background-color: #bbff4d;
 	padding: 10px;
