@@ -65,6 +65,10 @@ li.coursename {
 	font-weight: bold;
 }
 
+.enrolled {
+	color: orangered;
+}
+
 nav li {
 	background-color: #bbff4d;
 	padding: 10px;
